@@ -8,13 +8,21 @@ Nim is the most famous two-player algorithm game. The basic rules for this game 
     The player to remove the last stone wins.
     
 Sample Input:
+
 2
+
 2
+
 1 1
+
 3
+
 2 1 4
 
 Sample Output:
+
 Second
+
 First
+
 
